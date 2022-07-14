@@ -10,7 +10,6 @@
 Find the hidden meta data of your images.
 <br />
 
-<a href="https://image-metadata.netlify.app/">View Demo</a>
 
 </p>
 
